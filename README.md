@@ -1,1 +1,1 @@
-# live_video_emotions_setection
+# live_video_emotions_detection
